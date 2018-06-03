@@ -1,0 +1,1 @@
+git config --local core.sshCommand "ssh -i ~/.ssh/id_rsa2 -F /dev/null"
