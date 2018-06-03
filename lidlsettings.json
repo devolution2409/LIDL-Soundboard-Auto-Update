@@ -1,0 +1,15 @@
+{
+    "Default Locations": {
+        "Default Sounds Path": "C:/Program Files (x86)/LIDL Soundboard",
+        "Defaut Soundboards (.lidljson) Path": "C:/Program Files (x86)/LIDL Soundboard"
+    },
+    "Default Volumes": {
+        "Main Volume": 100,
+        "VAC Volume": 100
+    },
+    "Recent Files Info": {
+        "Display Count": 5,
+        "Files": {
+        }
+    }
+}
