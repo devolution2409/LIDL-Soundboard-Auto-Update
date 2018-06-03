@@ -4,4 +4,5 @@ packages/
 create_offline_installer.sh
 LIDL_Installer.7z
 LIDL_Installer.exe
-
+log.txt
+LULW.txt

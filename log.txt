@@ -6,21 +6,21 @@ Collecting information about available packages...
 [1] Copying component data for "com.devolution.root"
 [2] Copy meta data for package "com.devolution.root" using "packages/com.devolution.root/meta/package.xml"
 [2] calculate size of directory "C:/Users/Devolution/AppData/Local/Temp/binarycreator-l9Mfi9/com.devolution.root/data"
-[5] Begin to copy configuration file and data.
-[5] Copying associated "configuration" file "D:/Qt/Tools/QtInstallerFramework/3.0/projects/lidl_soundboard_installer/config/config.xml"
-[14] done.
+[4] Begin to copy configuration file and data.
+[4] Copying associated "configuration" file "D:/Qt/Tools/QtInstallerFramework/3.0/projects/lidl_soundboard_installer/config/config.xml"
+[6] done.
 
-[15] Read dom element: <Name>LIDL Soundboard</Name>.
-[15] Read dom element: <Version>1.4.0</Version>.
-[15] Read dom element: <Title>LIDL Soundboard</Title>.
-[15] Read dom element: <Publisher>Devolution</Publisher>.
-[15] Read dom element: <StartMenuDir>LIDL Soundboard</StartMenuDir>.
-[15] Read dom element: <TargetDir>@ApplicationsDirX86@/LIDL Soundboard</TargetDir>.
-[15] Read dom element: <RunProgram>@TargetDir@/LIDL_Soundboard.exe</RunProgram>.
-[15] Read dom element: <MaintenanceToolName>SDKMaintenanceTool</MaintenanceToolName>.
-[15] Read dom element: <RemoteRepositories>https://raw.githubusercontent.com/devolution2409/LIDL-Soundboard-Auto-Update/master/repository/1Example repository</RemoteRepositories>.
-[15] done.
+[7] Read dom element: <Name>LIDL Soundboard</Name>.
+[7] Read dom element: <Version>1.4.0</Version>.
+[7] Read dom element: <Title>LIDL Soundboard</Title>.
+[7] Read dom element: <Publisher>Devolution</Publisher>.
+[7] Read dom element: <StartMenuDir>LIDL Soundboard</StartMenuDir>.
+[7] Read dom element: <TargetDir>@ApplicationsDirX86@/LIDL Soundboard</TargetDir>.
+[7] Read dom element: <RunProgram>@TargetDir@/LIDL_Soundboard.exe</RunProgram>.
+[7] Read dom element: <MaintenanceToolName>SDKMaintenanceTool</MaintenanceToolName>.
+[7] Read dom element: <RemoteRepositories>https://raw.githubusercontent.com/devolution2409/LIDL-Soundboard-Auto-Update/master/repository/1Example repository</RemoteRepositories>.
+[7] done.
 
-[40] Creating the binary
-[155] Creating resource archive for "com.devolution.root"
-[296] Cleaning up...
+[28] Creating the binary
+[212] Creating resource archive for "com.devolution.root"
+[357] Cleaning up...
