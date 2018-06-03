@@ -1,0 +1,129 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.devolution.dll.bass</Name>
+  <DisplayName>BASS Library</DisplayName>
+  <Description>Bass library DLL (required to play sound) along with the soundboard </Description>
+  <Version>2.4.13.8</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="121093" UncompressedSize="124100"/>
+  <DownloadableArchives>bass.7z</DownloadableArchives>
+  <SHA1>c378d5455340cd4bd5af9a3a92de88b67481a495</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.libgcc_s_dw2.1</Name>
+  <DisplayName>GCC Standard Lib</DisplayName>
+  <Description>DLL related to the gcc compiler</Description>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Version>1.0.0</Version>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="43264" UncompressedSize="120374"/>
+  <DownloadableArchives>libgcc_s_dw2-1.7z</DownloadableArchives>
+  <SHA1>f1b12b3f9c0094ccc6e78869abf72b2c5f6ba8d1</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.libstdc++6</Name>
+  <DisplayName>GNU Standard C++ Library v3</DisplayName>
+  <Description>This package contains an additional runtime library for C++ programs built with the GNU compiler.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="310974" UncompressedSize="1540662"/>
+  <DownloadableArchives>libstdc++-6.7z</DownloadableArchives>
+  <SHA1>3d06b6c9aad675e286f78033ba7e79916dea8678</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.libwinpthread1.dll</Name>
+  <DisplayName>POSIX Threads for Windows LPGL</DisplayName>
+  <Description>Window pthread support. https://sourceware.org/pthreads-win32/</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="29095" UncompressedSize="79400"/>
+  <DownloadableArchives>libwinpthread-1.7z</DownloadableArchives>
+  <SHA1>5630ae074028dd2a52ba72af01a0071cdb9808aa</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.qgif</Name>
+  <DisplayName>Qt Gif DLL</DisplayName>
+  <Description>Dll to be able to deal with gif files. Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="13924" UncompressedSize="33832"/>
+  <DownloadableArchives>imageformats.7z</DownloadableArchives>
+  <SHA1>c6c4a19c06aab065dfe3d5547a008f49a148a6f6</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.QStyles</Name>
+  <DisplayName>Qt Styles DLL</DisplayName>
+  <Description>Qt Styles Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="66112" UncompressedSize="191528"/>
+  <DownloadableArchives>styles.7z</DownloadableArchives>
+  <SHA1>28785dd2afbba49da6c106cf4fa6872fc196b135</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.Qt5Core</Name>
+  <DisplayName>Qt Core DLL</DisplayName>
+  <Description>Qt Core. Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="2165186" UncompressedSize="6180904"/>
+  <DownloadableArchives>Qt5Core.7z</DownloadableArchives>
+  <SHA1>bf88ce409a9903b7ab2882f461618a62ff25c550</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.Qt5Gui</Name>
+  <DisplayName>Qt GUI DLL</DisplayName>
+  <Description>Qt GUI. Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="1930508" UncompressedSize="6415912"/>
+  <DownloadableArchives>Qt5Gui.7z</DownloadableArchives>
+  <SHA1>d535eec543fe0e0e94bdc28ae107ace668ea90be</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.Qt5Widgets</Name>
+  <DisplayName>Qt Widgets DLL</DisplayName>
+  <Description>Qt Widgets. Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="2017706" UncompressedSize="6232616"/>
+  <DownloadableArchives>Qt5Widgets.7z</DownloadableArchives>
+  <SHA1>bcf805cba166d88a8e83c458d951613d281c6afe</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.dll.qwindows</Name>
+  <DisplayName>Qt Windows DLL</DisplayName>
+  <Description>Qt Windows DLL to be abel to use shortcuts. Distributed underthe GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="667731" UncompressedSize="1890344"/>
+  <DownloadableArchives>platforms.7z</DownloadableArchives>
+  <SHA1>21915559c97c9bb019c5d5878aa4fc99f7cbd1a1</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.executable</Name>
+  <DisplayName>LIDL Soundboard Executable</DisplayName>
+  <Description>Install LIDL Soundboard Executable</Description>
+  <Version>1.4.0</Version>
+  <ReleaseDate>2018-06-01</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <SortingPriority>100</SortingPriority>
+  <Default>true</Default>
+  <UpdateFile OS="Any" CompressedSize="182322" UncompressedSize="430120"/>
+  <DownloadableArchives>Lidl_Soundboard.7z</DownloadableArchives>
+  <SHA1>4f8c025326b0cb7bc13b27f120aa27d1d160759b</SHA1>
+ </PackageUpdate>
+</Updates>
