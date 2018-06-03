@@ -8,19 +8,19 @@ Collecting information about available packages...
 [2] calculate size of directory "C:/Users/Devolution/AppData/Local/Temp/binarycreator-l9Mfi9/com.devolution.root/data"
 [4] Begin to copy configuration file and data.
 [4] Copying associated "configuration" file "D:/Qt/Tools/QtInstallerFramework/3.0/projects/lidl_soundboard_installer/config/config.xml"
+[13] done.
+
+[14] Read dom element: <Name>LIDL Soundboard</Name>.
+[14] Read dom element: <Version>1.4.0</Version>.
+[14] Read dom element: <Title>LIDL Soundboard</Title>.
+[14] Read dom element: <Publisher>Devolution</Publisher>.
+[14] Read dom element: <StartMenuDir>LIDL Soundboard</StartMenuDir>.
+[14] Read dom element: <TargetDir>@ApplicationsDirX86@/LIDL Soundboard</TargetDir>.
+[14] Read dom element: <RunProgram>@TargetDir@/LIDL_Soundboard.exe</RunProgram>.
+[14] Read dom element: <MaintenanceToolName>SDKMaintenanceTool</MaintenanceToolName>.
+[14] Read dom element: <RemoteRepositories>https://raw.githubusercontent.com/devolution2409/LIDL-Soundboard-Auto-Update/master/repository/1Example repository</RemoteRepositories>.
 [15] done.
 
-[16] Read dom element: <Name>LIDL Soundboard</Name>.
-[16] Read dom element: <Version>1.4.0</Version>.
-[16] Read dom element: <Title>LIDL Soundboard</Title>.
-[16] Read dom element: <Publisher>Devolution</Publisher>.
-[16] Read dom element: <StartMenuDir>LIDL Soundboard</StartMenuDir>.
-[16] Read dom element: <TargetDir>@ApplicationsDirX86@/LIDL Soundboard</TargetDir>.
-[16] Read dom element: <RunProgram>@TargetDir@/LIDL_Soundboard.exe</RunProgram>.
-[16] Read dom element: <MaintenanceToolName>SDKMaintenanceTool</MaintenanceToolName>.
-[16] Read dom element: <RemoteRepositories>https://raw.githubusercontent.com/devolution2409/LIDL-Soundboard-Auto-Update/master/repository/1Example repository</RemoteRepositories>.
-[16] done.
-
-[103] Creating the binary
-[377] Creating resource archive for "com.devolution.root"
-[518] Cleaning up...
+[34] Creating the binary
+[122] Creating resource archive for "com.devolution.root"
+[262] Cleaning up...
