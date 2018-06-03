@@ -4,7 +4,7 @@ Collecting information about available packages...
 [1] Found subdirectory "com.devolution.root"
 [1] - it provides the package "com.devolution.root"  -  "1.4.0"
 [1] Copying component data for "com.devolution.root"
-[2] Copy meta data for package "com.devolution.root" using "packages/com.devolution.root/meta/package.xml"
+[1] Copy meta data for package "com.devolution.root" using "packages/com.devolution.root/meta/package.xml"
 [2] calculate size of directory "C:/Users/Devolution/AppData/Local/Temp/binarycreator-l9Mfi9/com.devolution.root/data"
 [2] Begin to copy configuration file and data.
 [2] Copying associated "configuration" file "D:/Qt/Tools/QtInstallerFramework/3.0/projects/lidl_soundboard_installer/config/config.xml"
@@ -21,6 +21,6 @@ Collecting information about available packages...
 [5] Read dom element: <RemoteRepositories>https://raw.githubusercontent.com/devolution2409/LIDL-Soundboard-Auto-Update/master/repository/1Example repository</RemoteRepositories>.
 [5] done.
 
-[26] Creating the binary
-[114] Creating resource archive for "com.devolution.root"
-[255] Cleaning up...
+[24] Creating the binary
+[113] Creating resource archive for "com.devolution.root"
+[253] Cleaning up...
