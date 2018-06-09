@@ -9,8 +9,8 @@
   <Version>1.5.0</Version>
   <ReleaseDate>2018-06-03</ReleaseDate>
   <SortingPriority>10</SortingPriority>
-  <UpdateFile OS="Any" CompressedSize="0" UncompressedSize="0"/>
-  <SHA1>b5c81aa0abc597176dac4b80b9eec037afa7f2e4</SHA1>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>94f77f5a83e9ff1896ab05887289cbbe4c26107d</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll</Name>
@@ -19,8 +19,8 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-06-03</ReleaseDate>
   <SortingPriority>40</SortingPriority>
-  <UpdateFile OS="Any" CompressedSize="0" UncompressedSize="0"/>
-  <SHA1>cacb49dd2b5d39164bb8185dffdc4ae4b8352b6f</SHA1>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>3230fb02dd07acb956d34a0a20d922c12d2c2f49</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.bass</Name>
@@ -29,9 +29,9 @@
   <Version>2.4.13.8</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="121093" UncompressedSize="124100"/>
+  <UpdateFile UncompressedSize="124100" CompressedSize="121093" OS="Any"/>
   <DownloadableArchives>bass.7z</DownloadableArchives>
-  <SHA1>3c6d8279c62e9dc2aaef52d4a164ccdfb5cf1a5f</SHA1>
+  <SHA1>6bf20e72509b9fc18b32b7dbf4f04a236d92377e</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.libgcc_s_dw2.1</Name>
@@ -40,9 +40,9 @@
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Version>1.0.0</Version>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="43264" UncompressedSize="120374"/>
+  <UpdateFile UncompressedSize="120374" CompressedSize="43264" OS="Any"/>
   <DownloadableArchives>libgcc_s_dw2-1.7z</DownloadableArchives>
-  <SHA1>59e1c7a4344429e93adad1b2257dfe5c0b63b95a</SHA1>
+  <SHA1>c218f4ffef4131de9c0c28ac02e54998f75431d9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.libstdc++6</Name>
@@ -51,9 +51,9 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="310974" UncompressedSize="1540662"/>
+  <UpdateFile UncompressedSize="1540662" CompressedSize="310974" OS="Any"/>
   <DownloadableArchives>libstdc++-6.7z</DownloadableArchives>
-  <SHA1>a2d430ae7263837aa191828181aa70125bf938ea</SHA1>
+  <SHA1>5239b41cdc0973b1f271f9deb3186a3c5c766377</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.libwinpthread1</Name>
@@ -62,9 +62,9 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="29095" UncompressedSize="79400"/>
+  <UpdateFile UncompressedSize="79400" CompressedSize="29095" OS="Any"/>
   <DownloadableArchives>libwinpthread-1.7z</DownloadableArchives>
-  <SHA1>b87b963669fe8cfe03710dd6d023d0bceb2f059b</SHA1>
+  <SHA1>18698a2031454209dafadc36fd8503f5e9d7e81d</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.qgif</Name>
@@ -73,9 +73,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="13924" UncompressedSize="33832"/>
+  <UpdateFile UncompressedSize="33832" CompressedSize="13924" OS="Any"/>
   <DownloadableArchives>imageformats.7z</DownloadableArchives>
-  <SHA1>28845dd389849eb09df633778ea639f9c588eae4</SHA1>
+  <SHA1>b5bc4479c4a41d52c0ecf4c5f17b262d2e716c3a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.Qt5AutoUpdater</Name>
@@ -84,9 +84,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-06-03</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="23825" UncompressedSize="68648"/>
+  <UpdateFile UncompressedSize="68648" CompressedSize="23825" OS="Any"/>
   <DownloadableArchives>Qt5AutoUpdaterCore.7z</DownloadableArchives>
-  <SHA1>962bfaf61ecb2ce0415aa2a95ba04e6e48978bc7</SHA1>
+  <SHA1>909712cd9780dcfd19c8540191cb42b3f5a56c85</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.Qt5Core</Name>
@@ -95,9 +95,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="2165186" UncompressedSize="6180904"/>
+  <UpdateFile UncompressedSize="6180904" CompressedSize="2165186" OS="Any"/>
   <DownloadableArchives>Qt5Core.7z</DownloadableArchives>
-  <SHA1>cd1086f98cd424d23f475e4e82cd1cbcbbb4f5b7</SHA1>
+  <SHA1>b68b0079d7e3301f5b40b997d4c01209c1f7092a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.Qt5Gui</Name>
@@ -106,9 +106,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="1930508" UncompressedSize="6415912"/>
+  <UpdateFile UncompressedSize="6415912" CompressedSize="1930508" OS="Any"/>
   <DownloadableArchives>Qt5Gui.7z</DownloadableArchives>
-  <SHA1>2ba54c172cf02aa009c3760d49b419e883d14d7d</SHA1>
+  <SHA1>7ffe15141034c92d71f1dd81f04dbd409ee4b839</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.Qt5Widgets</Name>
@@ -117,9 +117,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="2017706" UncompressedSize="6232616"/>
+  <UpdateFile UncompressedSize="6232616" CompressedSize="2017706" OS="Any"/>
   <DownloadableArchives>Qt5Widgets.7z</DownloadableArchives>
-  <SHA1>1c81b10d32a977d60d449cdebd3b853f53e35553</SHA1>
+  <SHA1>054d99f2b745b1fd8a8a0ba5f572e71d7d773526</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.QtStyles</Name>
@@ -128,9 +128,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="66112" UncompressedSize="191528"/>
+  <UpdateFile UncompressedSize="191528" CompressedSize="66112" OS="Any"/>
   <DownloadableArchives>styles.7z</DownloadableArchives>
-  <SHA1>3e4238c14fce2203510ebbbe7ea18ec784cf4213</SHA1>
+  <SHA1>090a6b0082850dd4cefadec01e65750cc8827aa9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.qwindows</Name>
@@ -139,22 +139,22 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="667731" UncompressedSize="1890344"/>
+  <UpdateFile UncompressedSize="1890344" CompressedSize="667731" OS="Any"/>
   <DownloadableArchives>platforms.7z</DownloadableArchives>
-  <SHA1>cb46ff21972f97e3e60813fd3c404fd36513dfe2</SHA1>
+  <SHA1>7bc42f643413366e661106f749acd1d56bcebf2c</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.executable</Name>
   <DisplayName>LIDL Soundboard Executable</DisplayName>
   <Description>Install LIDL Soundboard Executable</Description>
   <Version>1.5.0</Version>
-  <ReleaseDate>2018-06-03</ReleaseDate>
+  <ReleaseDate>2018-06-09</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="183342" UncompressedSize="433192"/>
+  <UpdateFile UncompressedSize="468008" CompressedSize="188332" OS="Any"/>
   <DownloadableArchives>Lidl_Soundboard.7z</DownloadableArchives>
-  <SHA1>1efca86bf70dc1c59a817f1b4148436fc7905b25</SHA1>
+  <SHA1>346794a7f6b71d7edc9408b6b1f3ca297be6b2af</SHA1>
  </PackageUpdate>
 </Updates>
