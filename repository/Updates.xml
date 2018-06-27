@@ -3,16 +3,6 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>com.devolution.root</Name>
-  <DisplayName>Root Component</DisplayName>
-  <Description>LIDL Sounboard root component</Description>
-  <Version>1.5.0</Version>
-  <ReleaseDate>2018-06-03</ReleaseDate>
-  <SortingPriority>10</SortingPriority>
-  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
-  <SHA1>94f77f5a83e9ff1896ab05887289cbbe4c26107d</SHA1>
- </PackageUpdate>
- <PackageUpdate>
   <Name>com.devolution.root.dll</Name>
   <DisplayName>Dynamic Link Libraries</DisplayName>
   <Description>DLL Required to run LIDL Soundboard</Description>
@@ -144,17 +134,38 @@
   <SHA1>7bc42f643413366e661106f749acd1d56bcebf2c</SHA1>
  </PackageUpdate>
  <PackageUpdate>
+  <Name>com.devolution.root.dll.Qt5Network</Name>
+  <DisplayName>Qt Network DLL</DisplayName>
+  <Description>Qt Network. Distributed under the GNU Lesser General Public License v. 3 (“LGPL”).</Description>
+  <Version>5.10.1.0</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="1810984" CompressedSize="511137" OS="Any"/>
+  <DownloadableArchives>Qt5Network.7z</DownloadableArchives>
+  <SHA1>1f69e2fdcf82aca75aa6ef37d425f3b76e3024d6</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
   <Name>com.devolution.root.executable</Name>
   <DisplayName>LIDL Soundboard Executable</DisplayName>
   <Description>Install LIDL Soundboard Executable</Description>
-  <Version>1.5.0</Version>
-  <ReleaseDate>2018-06-09</ReleaseDate>
+  <Version>1.6.0</Version>
+  <ReleaseDate>2018-06-27</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="468008" CompressedSize="188332" OS="Any"/>
+  <UpdateFile UncompressedSize="513576" CompressedSize="200714" OS="Any"/>
   <DownloadableArchives>Lidl_Soundboard.7z</DownloadableArchives>
-  <SHA1>346794a7f6b71d7edc9408b6b1f3ca297be6b2af</SHA1>
+  <SHA1>4c83a65d8989a489ddc796015d2cc124da5e2e95</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.root</Name>
+  <DisplayName>Root Component</DisplayName>
+  <Description>LIDL Sounboard root component</Description>
+  <Version>1.6.0</Version>
+  <ReleaseDate>2018-06-27</ReleaseDate>
+  <SortingPriority>10</SortingPriority>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>b114c44673821b24a834ae28a7cfe0f843c2a3e3</SHA1>
  </PackageUpdate>
 </Updates>
