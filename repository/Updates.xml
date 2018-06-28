@@ -145,27 +145,49 @@
   <SHA1>1f69e2fdcf82aca75aa6ef37d425f3b76e3024d6</SHA1>
  </PackageUpdate>
  <PackageUpdate>
+  <Name>com.devolution.root</Name>
+  <DisplayName>Root Component</DisplayName>
+  <Description>LIDL Sounboard root component</Description>
+  <Version>1.6.1</Version>
+  <ReleaseDate>2018-06-28</ReleaseDate>
+  <SortingPriority>10</SortingPriority>
+  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <SHA1>75eb21379e8f704b5450b8c26a6683e0b93d0cac</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.root.dll.bassflac</Name>
+  <DisplayName>BASS FLAC Library</DisplayName>
+  <Description>Bass library DLL (required to play FLAC/OGG sound) along with the soundboard </Description>
+  <Version>2.4.13.8</Version>
+  <ReleaseDate>2018-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="50216" CompressedSize="22909" OS="Any"/>
+  <DownloadableArchives>bassflac.7z</DownloadableArchives>
+  <SHA1>b4e38c40c8538f012af37807f53777da4dd26e05</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.root.dll.OpenSSL</Name>
+  <DisplayName>Open SSL DLL</DisplayName>
+  <Description>Needed to support https URLs. https://www.openssl.org/source/license.html</Description>
+  <Version>1.0.2.8</Version>
+  <ReleaseDate>2017-12-07</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="1503736" CompressedSize="536956" OS="Any"/>
+  <DownloadableArchives>openSSL.7z</DownloadableArchives>
+  <SHA1>62ad01d8102a49a5a3ac10b1ebddf0e756cae897</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
   <Name>com.devolution.root.executable</Name>
   <DisplayName>LIDL Soundboard Executable</DisplayName>
   <Description>Install LIDL Soundboard Executable</Description>
-  <Version>1.6.0</Version>
-  <ReleaseDate>2018-06-27</ReleaseDate>
+  <Version>1.6.1</Version>
+  <ReleaseDate>2018-06-28</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="513576" CompressedSize="200714" OS="Any"/>
+  <UpdateFile UncompressedSize="513576" CompressedSize="200771" OS="Any"/>
   <DownloadableArchives>Lidl_Soundboard.7z</DownloadableArchives>
-  <SHA1>4c83a65d8989a489ddc796015d2cc124da5e2e95</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>com.devolution.root</Name>
-  <DisplayName>Root Component</DisplayName>
-  <Description>LIDL Sounboard root component</Description>
-  <Version>1.6.0</Version>
-  <ReleaseDate>2018-06-27</ReleaseDate>
-  <SortingPriority>10</SortingPriority>
-  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
-  <SHA1>b114c44673821b24a834ae28a7cfe0f843c2a3e3</SHA1>
+  <SHA1>80991f6c4161b43f46e022c30e27c402a6d388ae</SHA1>
  </PackageUpdate>
 </Updates>
