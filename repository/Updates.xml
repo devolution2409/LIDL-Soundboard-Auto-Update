@@ -9,7 +9,7 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-06-03</ReleaseDate>
   <SortingPriority>40</SortingPriority>
-  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
+  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
   <SHA1>3230fb02dd07acb956d34a0a20d922c12d2c2f49</SHA1>
  </PackageUpdate>
  <PackageUpdate>
@@ -19,7 +19,7 @@
   <Version>2.4.13.8</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="124100" CompressedSize="121093" OS="Any"/>
+  <UpdateFile CompressedSize="121093" OS="Any" UncompressedSize="124100"/>
   <DownloadableArchives>bass.7z</DownloadableArchives>
   <SHA1>6bf20e72509b9fc18b32b7dbf4f04a236d92377e</SHA1>
  </PackageUpdate>
@@ -30,7 +30,7 @@
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Version>1.0.0</Version>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="120374" CompressedSize="43264" OS="Any"/>
+  <UpdateFile CompressedSize="43264" OS="Any" UncompressedSize="120374"/>
   <DownloadableArchives>libgcc_s_dw2-1.7z</DownloadableArchives>
   <SHA1>c218f4ffef4131de9c0c28ac02e54998f75431d9</SHA1>
  </PackageUpdate>
@@ -41,7 +41,7 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="1540662" CompressedSize="310974" OS="Any"/>
+  <UpdateFile CompressedSize="310974" OS="Any" UncompressedSize="1540662"/>
   <DownloadableArchives>libstdc++-6.7z</DownloadableArchives>
   <SHA1>5239b41cdc0973b1f271f9deb3186a3c5c766377</SHA1>
  </PackageUpdate>
@@ -52,7 +52,7 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="79400" CompressedSize="29095" OS="Any"/>
+  <UpdateFile CompressedSize="29095" OS="Any" UncompressedSize="79400"/>
   <DownloadableArchives>libwinpthread-1.7z</DownloadableArchives>
   <SHA1>18698a2031454209dafadc36fd8503f5e9d7e81d</SHA1>
  </PackageUpdate>
@@ -63,7 +63,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="33832" CompressedSize="13924" OS="Any"/>
+  <UpdateFile CompressedSize="13924" OS="Any" UncompressedSize="33832"/>
   <DownloadableArchives>imageformats.7z</DownloadableArchives>
   <SHA1>b5bc4479c4a41d52c0ecf4c5f17b262d2e716c3a</SHA1>
  </PackageUpdate>
@@ -74,7 +74,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-06-03</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="68648" CompressedSize="23825" OS="Any"/>
+  <UpdateFile CompressedSize="23825" OS="Any" UncompressedSize="68648"/>
   <DownloadableArchives>Qt5AutoUpdaterCore.7z</DownloadableArchives>
   <SHA1>909712cd9780dcfd19c8540191cb42b3f5a56c85</SHA1>
  </PackageUpdate>
@@ -85,7 +85,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="6180904" CompressedSize="2165186" OS="Any"/>
+  <UpdateFile CompressedSize="2165186" OS="Any" UncompressedSize="6180904"/>
   <DownloadableArchives>Qt5Core.7z</DownloadableArchives>
   <SHA1>b68b0079d7e3301f5b40b997d4c01209c1f7092a</SHA1>
  </PackageUpdate>
@@ -96,7 +96,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="6415912" CompressedSize="1930508" OS="Any"/>
+  <UpdateFile CompressedSize="1930508" OS="Any" UncompressedSize="6415912"/>
   <DownloadableArchives>Qt5Gui.7z</DownloadableArchives>
   <SHA1>7ffe15141034c92d71f1dd81f04dbd409ee4b839</SHA1>
  </PackageUpdate>
@@ -107,7 +107,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="6232616" CompressedSize="2017706" OS="Any"/>
+  <UpdateFile CompressedSize="2017706" OS="Any" UncompressedSize="6232616"/>
   <DownloadableArchives>Qt5Widgets.7z</DownloadableArchives>
   <SHA1>054d99f2b745b1fd8a8a0ba5f572e71d7d773526</SHA1>
  </PackageUpdate>
@@ -118,7 +118,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="191528" CompressedSize="66112" OS="Any"/>
+  <UpdateFile CompressedSize="66112" OS="Any" UncompressedSize="191528"/>
   <DownloadableArchives>styles.7z</DownloadableArchives>
   <SHA1>090a6b0082850dd4cefadec01e65750cc8827aa9</SHA1>
  </PackageUpdate>
@@ -129,7 +129,7 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="1890344" CompressedSize="667731" OS="Any"/>
+  <UpdateFile CompressedSize="667731" OS="Any" UncompressedSize="1890344"/>
   <DownloadableArchives>platforms.7z</DownloadableArchives>
   <SHA1>7bc42f643413366e661106f749acd1d56bcebf2c</SHA1>
  </PackageUpdate>
@@ -140,19 +140,9 @@
   <Version>5.10.1.0</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="1810984" CompressedSize="511137" OS="Any"/>
+  <UpdateFile CompressedSize="511137" OS="Any" UncompressedSize="1810984"/>
   <DownloadableArchives>Qt5Network.7z</DownloadableArchives>
   <SHA1>1f69e2fdcf82aca75aa6ef37d425f3b76e3024d6</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>com.devolution.root</Name>
-  <DisplayName>Root Component</DisplayName>
-  <Description>LIDL Sounboard root component</Description>
-  <Version>1.6.1</Version>
-  <ReleaseDate>2018-06-28</ReleaseDate>
-  <SortingPriority>10</SortingPriority>
-  <UpdateFile UncompressedSize="0" CompressedSize="0" OS="Any"/>
-  <SHA1>75eb21379e8f704b5450b8c26a6683e0b93d0cac</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.dll.bassflac</Name>
@@ -161,7 +151,7 @@
   <Version>2.4.13.8</Version>
   <ReleaseDate>2018-05-26</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="50216" CompressedSize="22909" OS="Any"/>
+  <UpdateFile CompressedSize="22909" OS="Any" UncompressedSize="50216"/>
   <DownloadableArchives>bassflac.7z</DownloadableArchives>
   <SHA1>b4e38c40c8538f012af37807f53777da4dd26e05</SHA1>
  </PackageUpdate>
@@ -172,22 +162,32 @@
   <Version>1.0.2.8</Version>
   <ReleaseDate>2017-12-07</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="1503736" CompressedSize="536956" OS="Any"/>
+  <UpdateFile CompressedSize="536956" OS="Any" UncompressedSize="1503736"/>
   <DownloadableArchives>openSSL.7z</DownloadableArchives>
   <SHA1>62ad01d8102a49a5a3ac10b1ebddf0e756cae897</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.devolution.root</Name>
+  <DisplayName>Root Component</DisplayName>
+  <Description>LIDL Sounboard root component</Description>
+  <Version>1.7.0</Version>
+  <ReleaseDate>2018-07-10</ReleaseDate>
+  <SortingPriority>10</SortingPriority>
+  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
+  <SHA1>3f8c96634022e02c3362e15ad706c1add29ef9d6</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.devolution.root.executable</Name>
   <DisplayName>LIDL Soundboard Executable</DisplayName>
   <Description>Install LIDL Soundboard Executable</Description>
-  <Version>1.6.1</Version>
-  <ReleaseDate>2018-06-28</ReleaseDate>
+  <Version>1.7.0</Version>
+  <ReleaseDate>2018-07-10</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
   <SortingPriority>100</SortingPriority>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="513576" CompressedSize="200771" OS="Any"/>
+  <UpdateFile CompressedSize="215018" OS="Any" UncompressedSize="554536"/>
   <DownloadableArchives>Lidl_Soundboard.7z</DownloadableArchives>
-  <SHA1>80991f6c4161b43f46e022c30e27c402a6d388ae</SHA1>
+  <SHA1>5f988058b93db4103a7f98321a4c469627865668</SHA1>
  </PackageUpdate>
 </Updates>
